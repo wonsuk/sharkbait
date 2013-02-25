@@ -1,4 +1,4 @@
-sharkbait
+Nemo and Marlin
 =========
 
 Example repository for Room C at University of Washington boot camp.
@@ -6,3 +6,6 @@ Example repository for Room C at University of Washington boot camp.
 This file created by Greg Wilson to illustrate some ideas.
 
 We can put things in *italics* or **bold**.
+
+========
+I'm switching back to the Julian calendar as of last leap year.
